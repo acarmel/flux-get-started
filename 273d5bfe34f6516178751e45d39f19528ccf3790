@@ -1,0 +1,1 @@
+{"jobID":"a5b5de52-0fa1-c4d6-64a1-2b8c3ca2b82e","spec":{"type":"policy","cause":{"Message":"","User":"Avishai Carmel \u003cacarmel@lightricks.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:4.0.6"},"remove":{}}}},"result":null}
